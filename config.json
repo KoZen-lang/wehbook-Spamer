@@ -1,0 +1,11 @@
+{
+    "token": "", 
+    "serv": "",
+    "webhook": {
+        "name": "Test",
+        "avatar": "https://az836796.vo.msecnd.net/media/image/product/fr/large/0000000004011.jpg",
+        "spamMsg": "@everyone Salut ca va"
+    },
+    "ChannellMsgCount": "160",
+    "sleepMS": "720"
+}
